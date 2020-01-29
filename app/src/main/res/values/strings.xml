@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mvp</string>
+    <string name="clear">очистить</string>
+    <string name="add">добавить</string>
+</resources>
